@@ -1,0 +1,289 @@
+﻿> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:settings-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:processResources UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:processResources UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:processResources NO-SOURCE
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin-shared:jar UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:settings-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:jar UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:compileKotlin UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:compileJava NO-SOURCE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:classes UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-settings-plugin:jar UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :expo-module-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :expo-dev-launcher-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :expo-module-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :expo-dev-launcher-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :expo-dev-launcher-gradle-plugin:processResources UP-TO-DATE
+> Task :expo-module-gradle-plugin:processResources UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:compileKotlin UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:compileJava NO-SOURCE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:pluginDescriptors UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :expo-gradle-plugin:expo-autolinking-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+> Task :expo-dev-launcher-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :expo-dev-launcher-gradle-plugin:compileJava NO-SOURCE
+> Task :expo-dev-launcher-gradle-plugin:classes UP-TO-DATE
+> Task :expo-module-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :expo-module-gradle-plugin:compileJava NO-SOURCE
+> Task :expo-module-gradle-plugin:classes UP-TO-DATE
+> Task :expo-dev-launcher-gradle-plugin:jar UP-TO-DATE
+> Task :expo-module-gradle-plugin:jar UP-TO-DATE
+
+> Configure project :app
+ ??  [33mApplying gradle plugin[0m '[32mexpo-dev-launcher-gradle-plugin[0m'
+
+> Configure project :
+[32m[ExpoRootProject][0m Using the following versions:
+  - buildTools:  [32m36.0.0[0m
+  - minSdk:      [32m24[0m
+  - compileSdk:  [32m36[0m
+  - targetSdk:   [32m36[0m
+  - ndk:         [32m27.1.12297006[0m
+  - kotlin:      [32m2.1.20[0m
+  - ksp:         [32m2.1.20-2.0.1[0m
+
+> Configure project :expo
+
+Using expo modules
+  - [32mexpo-constants[0m (18.0.10)
+  - [32mexpo-dev-client[0m (6.0.17)
+  - [32mexpo-dev-launcher[0m (6.0.17)
+  - [32mexpo-dev-menu[0m (7.0.16)
+  - [32mexpo-dev-menu-interface[0m (2.0.0)
+  - [32mexpo-json-utils[0m (0.15.0)
+  - [32mexpo-manifests[0m (1.0.8)
+  - [32mexpo-modules-core[0m (3.0.25)
+  - [32mexpo-updates-interface[0m (2.0.0)
+  - [33m[?][0m [32mexpo-application[0m (7.0.7)
+  - [33m[?][0m [32mexpo-asset[0m (12.0.9)
+  - [33m[?][0m [32mexpo-blur[0m (15.0.8)
+  - [33m[?][0m [32mexpo-document-picker[0m (14.0.8)
+  - [33m[?][0m [32mexpo-file-system[0m (19.0.17)
+  - [33m[?][0m [32mexpo-font[0m (14.0.9)
+  - [33m[?][0m [32mexpo-keep-awake[0m (15.0.7)
+  - [33m[?][0m [32mexpo-linear-gradient[0m (15.0.8)
+  - [33m[?][0m [32mexpo-notifications[0m (0.32.12)
+  - [33m[?][0m [32mexpo-print[0m (15.0.8)
+  - [33m[?][0m [32mexpo-sharing[0m (14.0.7)
+  - [33m[?][0m [32mexpo-splash-screen[0m (31.0.13)
+  - [33m[?][0m [32mexpo-sqlite[0m (16.0.10)
+  - [33m[?][0m [32mexpo-system-ui[0m (6.0.8)
+
+
+> Configure project :shopify_react-native-skia
+react-native-skia: node_modules/ found at: C:\PocketExpenseMonitor\node_modules
+react-native-skia: RN Version: 81 / 0.81.5
+react-native-skia: isSourceBuild: false
+react-native-skia: PrebuiltDir: C:\PocketExpenseMonitor\node_modules\@shopify\react-native-skia\android\build/react-native-0*/jni
+react-native-skia: buildType: release
+react-native-skia: buildDir: C:\PocketExpenseMonitor\node_modules\@shopify\react-native-skia\android\build
+react-native-skia: node_modules: C:\PocketExpenseMonitor\node_modules
+react-native-skia: Enable Prefab: true
+react-native-skia: aar state post 70, do nothing
+
+> Task :expo-modules-core:preBuild UP-TO-DATE
+> Task :expo-dev-launcher:preBuild UP-TO-DATE
+> Task :expo-json-utils:preBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:preBuild UP-TO-DATE
+> Task :expo-manifests:preBuild UP-TO-DATE
+> Task :react-native-async-storage_async-storage:preBuild UP-TO-DATE
+> Task :react-native-gesture-handler:preBuild UP-TO-DATE
+> Task :react-native-get-random-values:preBuild UP-TO-DATE
+> Task :react-native-picker_picker:preBuild UP-TO-DATE
+> Task :react-native-masked-view_masked-view:preBuild UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-svg:preBuild UP-TO-DATE
+> Task :expo-updates-interface:preBuild UP-TO-DATE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-vector-icons:preBuild UP-TO-DATE
+> Task :react-native-community_datetimepicker:preBuild UP-TO-DATE
+> Task :expo-dev-launcher:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu:preBuild UP-TO-DATE
+> Task :expo-json-utils:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu:preReleaseBuild UP-TO-DATE
+> Task :expo-manifests:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-client:preBuild UP-TO-DATE
+> Task :expo-dev-client:preReleaseBuild UP-TO-DATE
+> Task :expo:generatePackagesList UP-TO-DATE
+> Task :expo:preBuild UP-TO-DATE
+> Task :expo:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-manifests:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :app:generateAutolinkingPackageList UP-TO-DATE
+> Task :expo-dev-client:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :expo-dev-client:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo-dev-menu-interface:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo-json-utils:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-dev-launcher:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-dev-menu:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-manifests:mergeReleaseNativeLibs NO-SOURCE
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :expo-manifests:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :expo-modules-core:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-client:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :expo-updates-interface:preReleaseBuild UP-TO-DATE
+> Task :expo:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo-json-utils:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo-updates-interface:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-dev-launcher:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo-updates-interface:mergeReleaseNativeLibs NO-SOURCE
+> Task :app:generateReactNativeEntryPoint UP-TO-DATE
+> Task :react-native-async-storage_async-storage:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu-interface:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :expo-dev-menu:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-community_datetimepicker:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-launcher:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-gesture-handler:preReleaseBuild UP-TO-DATE
+> Task :expo-dev-menu:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-get-random-values:preReleaseBuild UP-TO-DATE
+> Task :react-native-community_datetimepicker:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-json-utils:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-masked-view_masked-view:preReleaseBuild UP-TO-DATE
+> Task :react-native-get-random-values:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :expo-updates-interface:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-gesture-handler:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-picker_picker:preReleaseBuild UP-TO-DATE
+> Task :react-native-get-random-values:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-community_datetimepicker:mergeReleaseNativeLibs NO-SOURCE
+> Task :expo:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-safe-area-context:preReleaseBuild UP-TO-DATE
+> Task :react-native-get-random-values:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-masked-view_masked-view:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-screens:preReleaseBuild UP-TO-DATE
+> Task :react-native-gesture-handler:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-community_datetimepicker:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-svg:preReleaseBuild UP-TO-DATE
+> Task :react-native-safe-area-context:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-safe-area-context:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-picker_picker:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-safe-area-context:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-gesture-handler:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-masked-view_masked-view:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-svg:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-vector-icons:preReleaseBuild UP-TO-DATE
+> Task :react-native-svg:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-vector-icons:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-svg:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-gesture-handler:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-picker_picker:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-community_datetimepicker:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-masked-view_masked-view:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-vector-icons:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-gesture-handler:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-picker_picker:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-safe-area-context:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-community_datetimepicker:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-svg:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateReleaseResValues UP-TO-DATE
+> Task :react-native-svg:generateReleaseResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseResValues UP-TO-DATE
+> Task :react-native-vector-icons:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateReleaseResources UP-TO-DATE
+> Task :react-native-gesture-handler:generateReleaseResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseResources UP-TO-DATE
+> Task :react-native-svg:generateReleaseResources UP-TO-DATE
+> Task :react-native-masked-view_masked-view:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-gesture-handler:generateReleaseResources UP-TO-DATE
+> Task :react-native-masked-view_masked-view:generateReleaseResValues UP-TO-DATE
+> Task :react-native-masked-view_masked-view:generateReleaseResources UP-TO-DATE
+> Task :react-native-svg:packageReleaseResources UP-TO-DATE
+> Task :react-native-community_datetimepicker:packageReleaseResources UP-TO-DATE
+> Task :react-native-svg:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-masked-view_masked-view:packageReleaseResources UP-TO-DATE
+> Task :react-native-masked-view_masked-view:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-masked-view_masked-view:generateReleaseRFile UP-TO-DATE
+> Task :react-native-masked-view_masked-view:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-svg:generateReleaseRFile UP-TO-DATE
+> Task :react-native-community_datetimepicker:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-svg:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateReleaseRFile UP-TO-DATE
+> Task :react-native-async-storage_async-storage:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-worklets:assertMinimalReactNativeVersionTask
+> Task :react-native-worklets:assertNewArchitectureEnabledTask FAILED
+> Task :react-native-async-storage_async-storage:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-async-storage_async-storage:copyReleaseJniLibsProjectOnly UP-TO-DATE
+> Task :react-native-safe-area-context:packageReleaseResources UP-TO-DATE
+> Task :react-native-gesture-handler:packageReleaseResources UP-TO-DATE
+> Task :react-native-screens:configureCMakeRelWithDebInfo[arm64-v8a]
+> Task :react-native-reanimated:assertMinimalReactNativeVersionTask
+> Task :react-native-svg:compileReleaseJavaWithJavac UP-TO-DATE
+> Task :expo-modules-core:configureCMakeRelWithDebInfo[arm64-v8a]
+> Task :react-native-community_datetimepicker:compileReleaseKotlin UP-TO-DATE
+> Task :shopify_react-native-skia:prepareHeaders UP-TO-DATE
+
+> Task :expo-constants:createExpoConfig
+.\gradlew.bat : The NODE_ENV environment variable is required 
+but was not specified. Ensure the project is bundled with Expo 
+CLI or NODE_ENV is set. Using only .env.local and .env
+At line:1 char:1
++ .\gradlew.bat assembleRelease 2>&1 | Out-File -FilePath 
+"build_log.tx ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (The NODE_ENV en... 
+   .local and .env:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+> Task :react-native-masked-view_masked-view:compileReleaseJavaWithJavac
+Note: C:\PocketExpenseMonitor\node_modules\@react-native-masked-
+view\masked-view\android\src\main\java\org\reactnative\maskedvie
+w\RNCMaskedViewPackage.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+[Incubating] Problems report is available at: file:///C:/PocketExpenseMonitor/android/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'C:\PocketExpenseMonitor\node_modules\react-native-wo
+rklets\android\build.gradle' line: 314
+
+* What went wrong:
+Execution failed for task 
+':react-native-worklets:assertNewArchitectureEnabledTask'.
+> [Worklets] Worklets require new architecture to be enabled. 
+Please enable it by setting `newArchEnabled` to `true` in 
+`gradle.properties`.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14.3/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 15s
+103 actionable tasks: 7 executed, 96 up-to-date
